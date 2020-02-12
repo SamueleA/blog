@@ -31,7 +31,7 @@ export function Bio() {
               }}
             />
             <p>
-              Learn about Androids, Blockchain and general software engineering tips 😉.
+              Learn about Aasdfafsfsdfsdroids, Blockchain and general software engineering tips 😉.
             </p>
           </div>
         )
