@@ -31,7 +31,7 @@ export function Bio() {
               }}
             />
             <p>
-              Learn about test-new-name, Blockchain and general software engineering tips 😉.
+              Learn about test-deploy, Blockchain and general software engineering tips 😉.
             </p>
           </div>
         )
