@@ -13,8 +13,7 @@ import {
 import { ContentContainer } from '../components/ContentContainer'
 import SubscriptionForm from '../components/SubscriptionForm';
 
-const featuredPostExcerptLayout = {
-  sm: {
+const featuredPostExcerptLayout = { sm: {
     span: 24,
   },
   md: {
@@ -46,7 +45,7 @@ class BlogIndex extends React.Component {
                   <br />
                   Engineering
                 </h1>
-                Perfect's tip and tricks on different topics in Software
+                Perfect's tip and rfdffdricks on different topics in Software
                 Engineering
               </Col>
               <Col lg={12} md={24} xs={24} style={{ marginBottom: '5rem' }}>
