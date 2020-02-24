@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Perfects.Engineering Blog`,
+    title: `Sam.Engineering Blog`,
     author: `Perfect Makanju`,
     description: `Engineering blog for Perfects.Engineering.`,
     siteUrl: `https://blog.perfects.engineering/`,
